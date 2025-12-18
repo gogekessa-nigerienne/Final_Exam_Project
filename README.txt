@@ -31,6 +31,11 @@ DATABASE SETUP:
 3. Import the SQL file from `database/hair_booking.sql`
 
 
+
+Link to the Live server: http://169.239.251.102:341/~mariam.kessa/Final_Exam_Project/
+
+
+
 DATABASE CREDENTIALS:
 Host:localhost
 User:root
